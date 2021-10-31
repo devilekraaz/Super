@@ -28,10 +28,8 @@ function App() {
   return (
     <div className="App">
       <header>
-        
         <h1>⚛️🔥💬</h1>
         <SignOut />
-        
       </header>
 
       <section>
