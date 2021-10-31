@@ -1,0 +1,6 @@
+{
+	"appId": "com.superchat.com",
+	"appName": "Superchat",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

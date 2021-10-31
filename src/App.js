@@ -28,8 +28,9 @@ function App() {
   return (
     <div className="App">
       <header>
-        Welcome To The World Of Naman!!
+        
         <h1>⚛️🔥💬</h1>
+        <SignOut />
         
       </header>
 
